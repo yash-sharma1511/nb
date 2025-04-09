@@ -1,0 +1,13 @@
+{
+  "name": "my-node-app",
+  "version": "1.0.0",
+  "description": "A simple Node.js app for Azure Pipeline demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "build": "echo 'Build successful: This is a placeholder build step'"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {}
+}
